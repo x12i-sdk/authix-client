@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/authix-client",
+  "packageVersion": "1.0.4",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/authix-client",
+  "usageRepository": "https://github.com/x12i-sdk/authix-client",
+  "sourceRepository": null,
+  "sourceCommit": null,
+  "sourcePackageDirectory": null,
+  "example": {
+    "title": "Send a token-verification request to an offline HTTP fixture",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T13:51:37.133428+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "b7f4664d5e5d324c7d6dc65d258601e44a63eedeba279c6b87786d0c36f629d1",
+    "manifestSha256": "9186bbc1ea1957c48f5372af51849bf894f6319b54fb11d54e7bdd5f8db4e9c0"
+  }
+}
